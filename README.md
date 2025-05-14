@@ -5,15 +5,15 @@ This repo includes:
 
 🐍 Reverse Shell Automator – Automate shell connections to devices (for testing your defenses, of course 👀).
 
-🌍 IP Tracer – Trace IPs using multiple sources (not just ipinfo.io) for more accurate geolocation.
+🌍 IP Tracer – Trace IPs using multiple sources (not just ipinfo.io) for more accurate geolocation.might use tkinter
 
 🔍 IP Scanner – Scan devices on your network and get detailed info.
 
 🎧 Port Listener – Listen on specific ports for incoming data (think netcat but with style).
 
-📡 TCP/UDP Communicator – A fun little project to simulate network communication using both protocols.
+📡 TCP/UDP Communicator – A fun little project to simulate network communication using both protocols.this is graphical uses tkinter
 
-All tools are graphical, built using Tkinter, so you don’t have to stare at a CLI like it’s 1995.
+
 
 ⚠️ Legal Disclaimer
 These tools are for educational and legal use only.
